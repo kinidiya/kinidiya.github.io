@@ -104,13 +104,13 @@ nav ul li a:hover:after {
     font-size: 75px;
     font-weight: 900;
     line-height: 90px;
-    margin-left: 200px;
+    margin-left: 150px;
     text-transform: inherit;
     width: 70%;
 }
 .content h1 span {
     color: #fd4766;
-    margin-left: 200px;
+    margin-left: 150px;
 }
 .content p {
     width: 55%;
