@@ -27,7 +27,10 @@ nav {
 .profile {
     margin-top: 100px;
     margin-left: 50px;
-    width: 25%;
+    object-fit: cover;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
 }
 nav ul li {
     list-style: none;
