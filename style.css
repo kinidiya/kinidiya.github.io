@@ -29,8 +29,8 @@ nav {
     margin-left: 50px;
     object-fit: cover;
     border-radius: 50%;
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 300px;
 }
 nav ul li {
     list-style: none;
