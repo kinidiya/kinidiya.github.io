@@ -73,7 +73,7 @@ nav ul li a:hover:after {
     border: 2px solid #fd4766;
 }
 .btn:hover {
-    background: transparent;
+    background: #fd4766;
     border-color: #fd4766;
     color: #fff;
 }
