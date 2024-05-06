@@ -43,7 +43,7 @@ nav ul li a {
     padding: 5px 0;
 }
 nav ul li a:hover {
-    color: #fd4766;
+    color: #202A44;
 }
 nav ul li a:after {
     content: "";
@@ -51,7 +51,7 @@ nav ul li a:after {
     left: 0;
     width: 0;
     height: 3px;
-    background: #fd4766;
+    background: #202A44;
     transition: 0.3s;
     bottom: 0;
 }
@@ -59,7 +59,7 @@ nav ul li a:hover:after {
     width: 100%;
 }
 .btn {
-    color: #fd4766;
+    color: #202A44;
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -70,11 +70,11 @@ nav ul li a:hover:after {
     transition: all 0.4s ease-in-out;
     background-size: 152% 100%;
     background: transparent;
-    border: 2px solid #fd4766;
+    border: 2px solid #202A44;
 }
 .btn:hover {
-    background: #fd4766;
-    border-color: #fd4766;
+    background: #202A44;
+    border-color: #202A44;
     color: #fff;
 }
 .content {
@@ -94,7 +94,7 @@ nav ul li a:hover:after {
         120deg,
         #1c99fe 20.69%,
         #7644ff 50.19%,
-        #fd4766 79.69%
+        #202A44 79.69%
     );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -109,7 +109,7 @@ nav ul li a:hover:after {
     width: 70%;
 }
 .content h1 span {
-    color: #fd4766;
+    color: #202A44;
     margin-left: 150px;
 }
 .content p {
