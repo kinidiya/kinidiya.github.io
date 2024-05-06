@@ -59,7 +59,7 @@ nav ul li a:hover:after {
     width: 100%;
 }
 .btn {
-    color: #fff;
+    color: #fd4766;
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -69,13 +69,13 @@ nav ul li a:hover:after {
     font-weight: 500;
     transition: all 0.4s ease-in-out;
     background-size: 152% 100%;
-    background: #fd4766;
+    background: transparent;
     border: 2px solid #fd4766;
 }
 .btn:hover {
     background: transparent;
     border-color: #fd4766;
-    color: #fd4766;
+    color: #fff;
 }
 .content {
     position: absolute;
